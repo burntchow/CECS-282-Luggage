@@ -1,4 +1,4 @@
-# CECS-282-Luggage
+# Luggage
 ## Project 6
 
 Different shapes as Luggages: Cube, Box, Cylinder, Sphere, Pyramid
